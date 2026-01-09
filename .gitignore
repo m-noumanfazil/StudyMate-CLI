@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment folder (virtualenv)
+environment/
+
+# Environment variables
+.env
+
+# ChromaDB persistence
+chroma_db/
+
+# PDF documents folder (user-added files)
+pdfs/
+
+# Session persistence file
+sessions.txt
+
+# OS-specific files
+.DS_Store
+Thumbs.db
