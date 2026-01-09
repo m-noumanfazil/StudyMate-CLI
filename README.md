@@ -62,21 +62,29 @@ py main.py
 ### 2) Create a Session
 Choose "Create new session" and enter a unique name for your study topic.
 
+![Alt text](output_pic/1.PNG)
 
 ### 3) Add PDFs to a Session
 Select "Add documents to a session", pick the session you created, and add your PDFs. Use relative paths like pdfs/yourfile.pdf or absolute paths.
 
+![Alt text](output_pic/2.PNG)
+
 ### 4) List Sessions
 Use "List all sessions" to see the sessions you’ve created.
+
+![Alt text](output_pic/3.PNG)
 
 ### 5) Start Chatting with StudyMate
 Choose "Select active session (chat)", pick a session, and ask questions. StudyMate will answer based strictly on the PDFs you added.
 
+![Alt text](output_pic/4.1.PNG)
 
+![Alt text](output_pic/4.2.PNG)
 
 ### 6) Delete a Session (Optional)
 Use "Delete a session" to permanently remove a session and its documents from memory.
 
+![Alt text](output_pic/5.PNG)
 
 ## License
 
